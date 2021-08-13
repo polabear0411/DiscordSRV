@@ -2,10 +2,10 @@
 # Need help? Join our Discord, https://discordsrv.com/discord
 
 # Don't touch pls
-ConfigVersion: ${project.version}
+ConfigVersion:1.17.1
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
-BotToken: "BOTTOKEN"
+BotToken: ODc1NTgyOTg0NDI0Njg1NjE5.YRXoMw.EAIhodho-CyksS48tRAu5EL7vlc
 
 # Channel links from game to Discord
 # syntax is Channels: {"in-game channel name from Minecraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
@@ -24,10 +24,10 @@ BotToken: "BOTTOKEN"
 # for /discord broadcast: broadcasts (unless specified in the command)
 #
 # The first part of channel pairs is not the Discord channel name!
-Channels: {"global": "000000000000000000"}
+Channels: {"test": "https://discord.gg/SjDFyPSM"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "https://discord.gg/5QRgDX78"
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
 DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
